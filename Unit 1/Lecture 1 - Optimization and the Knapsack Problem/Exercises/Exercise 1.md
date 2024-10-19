@@ -24,7 +24,7 @@ def metric1(item):
 
 - Choose the lightest object first.
 - Choose the most valuable object first.
-- <b>$${\color{green}Choose the item with the best value to weight ratio first. [X]}$$</b>
+- <b style="color : green">Choose the item with the best value to weight ratio first. [X]</b>
 
 What will be the result of running the burgler's algorithm with Metric 1?
 
